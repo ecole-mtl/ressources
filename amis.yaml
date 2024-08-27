@@ -7,10 +7,12 @@
 - nom: "Adam Basanta"
   localisation: "Montréal"
   type: "Artiste"
+  web: "https://adambasanta.com/"
 
 - nom: "Ahreum Lee"
   localisation: "Montréal"
   type: "Artiste"
+  web: "https://www.ahreumlee.com/"
 
 - nom: "Alex M. Lee"
   localisation: "Phoenix (USA)"
