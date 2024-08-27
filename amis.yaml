@@ -1,0 +1,485 @@
+
+liste:
+  - nom: "AENL (Anna Eyler et Nicolas Lapointe)"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Adam Basanta"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Ahreum Lee"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Alex M. Lee"
+    localisation: "Phoenix (USA)"
+    type: "Artiste"
+
+  - nom: "Alexandre Saunier"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Alexis Langevin-Tétreault"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Baron Lanteigne"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Bay Dam (VX LAB)"
+    localisation: "Dakar (Sénégal)"
+    type: "Artiste"
+
+  - nom: "Ben Bogart"
+    localisation: "Vancouver"
+    type: "Artiste"
+
+  - nom: "Bill Vorn"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Brad Todd"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Chris Salter"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Chun Hua Catherine Dong"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Cinzia Campolese"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Constanza Piña"
+    localisation: "Mexico"
+    type: "Artiste"
+
+  - nom: "David Rokeby"
+    localisation: "Toronto"
+    type: "Artiste"
+
+  - nom: "Diane Morin"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Emilie Mouchous"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Emma Forgues"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Erin Gee"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "France Jobin"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "François Quévillon"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Ganesh Baron Aloir"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "GLOWZI"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Guillaume Pascale"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Isabella Salas"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Istvan Kantor"
+    localisation: "Toronto"
+    type: "Artiste"
+
+  - nom: "Jean-Pierre Gauthier"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Joanie Lemercier"
+    localisation: "France"
+    type: "Artiste"
+
+  - nom: "Jocelyn Robert"
+    localisation: "Québec"
+    type: "Artiste"
+
+  - nom: "Joël Lavoie"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Jonathan Villeneuve"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Josée Brouillard"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Lauren McCarthy"
+    localisation: "Los Angeles"
+    type: "Artiste"
+
+  - nom: "Le désert mauve (Gabrielle HB et Charline Dally)"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Libby Heaney"
+    localisation: "Londres"
+    type: "Artiste"
+
+  - nom: "Line Katcho"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Louis-Philippe Rondeau (alias Patenteux)"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Lucas Paris"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Lukas Truniger"
+    localisation: "Suisse"
+    type: "Artiste"
+
+  - nom: "Marc-André Cossette"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Martin Messier"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "MaxD (Maxime Damecour)"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Maxime Corbeil-Perron"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Milton Raggi"
+    localisation: "La Havane (Cuba)"
+    type: "Artiste"
+
+  - nom: "Myriam Bleau"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Myriam Boucher"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Navid Navab"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Nelly-Eve Rajotte"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Nicolas Bernier"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Nima Navab"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Philomène Longpré"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Radhanatha Gagnon"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Rafael Lozano-Hemmer"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Refik Anadol"
+    localisation: "Istanbul (Turquie)"
+    type: "Artiste"
+
+  - nom: "Rosalie Dumont-Gagné"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Sabrina Ratté"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Samuel St-Aubin"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Skawennati"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Stephanie Castonguay"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "TeZ"
+    localisation: "Amsterdam"
+    type: "Artiste"
+
+  - nom: "Véro Marengère"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Victor Drouin-Trempe"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Vincent Morisset"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "Zimoun"
+    localisation: "Bern (Suisse)"
+    type: "Artiste"
+
+  - nom: "Chantre Studio (Manuel Chantre)"
+    localisation: "Montréal"
+    type: "Artiste"
+
+  - nom: "4d art (Lemieux et Pilon)"
+    localisation: "Montréal"
+    type: "Collectif"
+
+  - nom: "Artificiel (Alexandre Burton et Jimmy Lacatos)"
+    localisation: "Montréal"
+    type: "Collectif"
+
+  - nom: "Audiotopie"
+    localisation: "Montréal"
+    type: "Collectif"
+
+  - nom: "Béchard Hudon"
+    localisation: "Québec"
+    type: "Collectif"
+
+  - nom: "Cod.act"
+    localisation: "Suisse"
+    type: "Collectif"
+
+  - nom: "Disnovation"
+    localisation: "Paris"
+    type: "Collectif"
+
+  - nom: "Projet EVA"
+    localisation: "Montréal"
+    type: "Collectif"
+
+  - nom: "Scenocosme"
+    localisation: "St-Étienne (France)"
+    type: "Collectif"
+
+  - nom: "AATOAA"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Cadabra"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Creative Lab"
+    localisation: "Laval"
+    type: "Entreprise"
+
+  - nom: "Creo"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Daily tous les jours"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Edge Dimension"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Felix & Paul Studios"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Float4"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "GSM Projects"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Iregular"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "La boite interactive"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Mirari"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Moment Factory"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Muxmo"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Ottomata"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "PixMob"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Prologue XR"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Réalisations"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Robocut"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Silent Partners Studio"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Studio Gentilhomme"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Turbulent"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "VYV"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "XYZ Technologies culturelles"
+    localisation: "Montréal"
+    type: "Entreprise"
+
+  - nom: "Ars Electronica"
+    localisation: "Linz (Autriche)"
+    type: "Festival"
+
+  - nom: "Elektra"
+    localisation: "Montréal"
+    type: "Festival"
+
+  - nom: "Mois Multi"
+    localisation: "Québec"
+    type: "Festival"
+
+  - nom: "MUTEK"
+    localisation: "Montréal"
+    type: "Festival"
+
+  - nom: "Piksel Festival"
+    localisation: "Bergen (Norvège)"
+    type: "Festival"
+
+  - nom: "Transmediale"
+    localisation: "Berlin"
+    type: "Festival"
+
+  - nom: "Hexagram"
+    localisation: "Montréal"
+    type: "Groupe de recherche"
+
+  - nom: "MILIEUX"
+    localisation: "Montréal"
+    type: "Groupe de recherche"
+
+  - nom: "AdaX (anciennement StudioXX)"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "Avatar"
+    localisation: "Québec"
+    type: "Organisme"
+
+  - nom: "Centre PHI"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "Daïmon"
+    localisation: "Gatineau"
+    type: "Organisme"
+
+  - nom: "Eastern Bloc"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "Espace F"
+    localisation: "Matane"
+    type: "Organisme"
+
+  - nom: "Groupe Molior"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "Kër Thiossanne"
+    localisation: "Dakar (Sénégal)"
+    type: "Organisme"
+
+  - nom: "La Bande Vidéo"
+    localisation: "Québec"
+    type: "Organisme"
+
+  - nom: "La Chambre Blanche"
+    localisation: "Québec"
+    type: "Organisme"
+
+  - nom: "Oboro"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "perte de signal"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "SAT"
+    localisation: "Montréal"
+    type: "Organisme"
+
+  - nom: "Sporobole"
+    localisation: "Sherbrooke"
+    type: "Organisme"
+
+  - nom: "World Creation Studio"
+    localisation: "Montréal"
+    type: "Organisme"
